@@ -1,32 +1,19 @@
-# Iconpacks for [Pyoncord](https://github.com/pyoncord) themes+
+# Iconpacks for [Bunny](https://github.com/pyoncord) themes+
 
-- [Solar](https://www.figma.com/community/file/1166831539721848736) - comes in 3 different styles: bold, bold duotone, broken and
+- [Solar](https://www.figma.com/community/file/1166831539721848736) - comes in 3 different styles: bold, bold duotone & broken
 - (Updated) rosiecord iconsax
 - (Updated) rosiecord plumpy - maintained by [Rairof](https://github.com/Rairof)
 
 ## Usage
 
-1. Install Nexx's Themes+ plugin in Pyoncord (should work for Enmity/Rosiecord)
+1. Install Nexx's Themes+ plugin in Pyoncord
 ```
-https://vendetta.nexpid.xyz/themes-plus
+https://bunny.nexpid.xyz/themes-plus
 ```
 2. Enable Themes+ plugin
 3. Go to Themes+ settings, tap on `Configuration`
-4. Choose Solar or Solar (Duotone)
-
-For Solar Broken Click "Custom" and input the URL below then hit reload (ensure the `prefix` box is empty)
-```
-https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Solar-Broken/
-```
-
-#### (Updated) Rosiecord Iconsax 
-(PR not merged in Rosiecord yet guh)
-
-1. Click `Custom` in themes+ configuration settings
-2. On `URL` put iconpack link
-```
-https://raw.githubusercontent.com/Moodzz1/discord-iconpacks/master/Packs/Iconsax/
-```
-3. Tap Reload in main page
-4. ![image](https://github.com/Moodzz1/discord-iconpacks/assets/88912716/2a8df743-39a2-4240-ac98-f4692c387ab2)
-5. Done
+4. Select Solar, Solar (duotone) or Solar (broken)
+5. ![1105406110724268075](https://github.com/user-attachments/assets/504c6bb1-68da-41d4-913d-1dc293c6b632)
+6. Tap reload
+> [!IMPORTANT]
+> If you are using Enmity/Rosiecord, please install VendettaCommpat plugin first by visiting this [link](https://discord.com/channels/950850315601711176/1019645460589318165/1211473409154744350). After doing so, follow this [guide](https://discord.com/channels/950850315601711176/1239393517151846412) as it loads Vendetta by default which is broken past Discord version 223
