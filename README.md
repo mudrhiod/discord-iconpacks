@@ -1,12 +1,12 @@
 # Iconpacks for [Bunny](https://github.com/pyoncord) themes+
 
 - [Solar](https://www.figma.com/community/file/1166831539721848736) - comes in 3 different styles: bold, bold duotone & broken
-- (Updated) rosiecord iconsax
-- (Updated) rosiecord plumpy - maintained by [Rairof](https://github.com/Rairof)
+- (Updated) Rosiecord iconsax
+- (Updated) Rosiecord plumpy - maintained by [Rairof](https://github.com/Rairof)
 
 ## Usage
 
-1. Install Nexx's Themes+ plugin in Pyoncord
+1. Install Nexx's Themes+ plugin in Bunny
 ```
 https://bunny.nexpid.xyz/themes-plus
 ```
