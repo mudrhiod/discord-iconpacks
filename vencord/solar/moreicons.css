@@ -180,7 +180,7 @@
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/soundboard.svg); 
 }
 .sidebar__23e6b [data-tab-id="MEMBERS"].item_b3f026:before {
-    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/user.svg); 
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/users.svg); 
 }
 .sidebar__23e6b [data-tab-id="ROLES"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/usershield.svg); 
@@ -235,6 +235,9 @@
 }
 .sidebar__23e6b [data-tab-id="GUILD_TEMPLATES"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/template.svg); 
+}
+.sidebar__23e6b [data-tab-id="DELETE"].item_b3f026:before {
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/bin.svg); 
 }
 
 /* Vencord & Equicord */
@@ -335,9 +338,5 @@
 }
 .menu_c1e9c4 [id="message-favorite"].item_c1e9c4:after {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/favorite.svg) ; 
-    display: flex !important;
-}
-.menu_c1e9c4 [id="channel-attach-vc-remix"].item_c1e9c4:after {
-    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/remixsvg) ; 
     display: flex !important;
 }
