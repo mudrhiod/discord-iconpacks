@@ -299,6 +299,10 @@
 .sidebar__23e6b [data-tab-id="Equibop"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/laptop.svg); 
 }
+/* OpenAsar settings */
+.sidebar__23e6b [data-tab-id="OpenAsar"].item_b3f026:before {
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/settings.svg); 
+}
 
 /* Context menus */
 .menu_c1e9c4 :not(:has([class^=iconContainer_]))[id=].item_c1e9c4 {
@@ -364,6 +368,7 @@
 .menu_c1e9c4 [id="message-ml-remove-history"].item_c1e9c4:after {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/close.svg) ; 
     display: flex !important;
+    background-color: var(--text-danger) !important;
 }
 .menu_c1e9c4 [id="user-context-vc-ml-clear-channel"].item_c1e9c4:after {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/close.svg) ; 
