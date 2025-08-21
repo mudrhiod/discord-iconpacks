@@ -254,7 +254,7 @@
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/equicord.svg); 
     scale: 0.85;
 }
-.sidebar__23e6b [data-tab-id="VencordSettings"].item_b3f026:before {
+.sidebar__23e6b [data-tab-id="settings/tabs"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/oneko.svg); 
 }
 .sidebar__23e6b [data-tab-id="EquicordPlugins"].item_b3f026:before {
@@ -287,11 +287,16 @@
 .sidebar__23e6b [data-tab-id="VencordSettingsSync"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/backupandrestore.svg); 
 }
+.sidebar__23e6b [data-tab-id="settings/tabsSync"].item_b3f026:before {
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/backupandrestore.svg); 
+}
 .sidebar__23e6b [data-tab-id="VencordDiscordIcons"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/icons.svg); 
 }
 .sidebar__23e6b [data-tab-id="ThemeLibrary"].item_b3f026:before {
-    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/icons.svg); 
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/painter.svg) !important;
+    mask-size: 100% !important; 
+    mask-repeat: no-repeat !important;
 }
 .sidebar__23e6b [data-tab-id="Vesktop"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/laptop.svg); 
@@ -299,9 +304,9 @@
 .sidebar__23e6b [data-tab-id="Equibop"].item_b3f026:before {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/laptop.svg); 
 }
-/* OpenAsar settings */
+/* OpenAsar settings - uses goosemods official logo */
 .sidebar__23e6b [data-tab-id="OpenAsar"].item_b3f026:before {
-    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/settings.svg); 
+    -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/goosemod.png);
 }
 
 /* Context menus */
@@ -412,6 +417,7 @@
 }
 .menu_c1e9c4 [id="channel-context-delete-channel"].item_c1e9c4:after {
     -webkit-mask-image: url(https://mudaranrhiod.github.io/discord-iconpacks/vencord/solar/moreicons/delete.svg) ; 
+    background-color: var(--text-danger) !important;
     display: flex !important;
 }
 .menu_c1e9c4 [id="textarea-context-languages"].item_c1e9c4:after {
